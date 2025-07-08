@@ -30,8 +30,8 @@ SQLite
 
 1️⃣ Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
+git clone [https://github.com/seu-usuario/seu-repositorio.git
+](https://github.com/GSL95/Lista-de-afazeres.git)
 2️⃣ Crie e ative o ambiente virtual:
 
 python -m venv venv
