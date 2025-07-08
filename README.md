@@ -24,7 +24,7 @@ SQLite
 
 <h1>📸 Screenshot</h1>
 
-![Screenshot do projeto](screenshot.png)
+![Screenshot do projeto](lista_afazeres.png)
 
 <h1>⚙️ Como rodar o projeto localmente</h1>
 
